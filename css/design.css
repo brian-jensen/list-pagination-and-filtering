@@ -4,6 +4,10 @@ body{
   color: #222;
 }
 
+button {
+  cursor: pointer;
+}
+
 .page{
   margin: 50px auto;
   width: 70%;
